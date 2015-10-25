@@ -2,7 +2,7 @@
 
 [Sunuma buradan](http://www.slideshare.net/BilalArslanAslan/apple-platformuna-uygulama-gelitirme) ulaşabilirsiniz.
 
-[about me](www.bilalarslan.me)
+[about me](http://bilalarslan.me)
 
 
 ##apple platformuna giriş iOS OS X WatchOS TvOS
