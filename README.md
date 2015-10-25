@@ -1,6 +1,6 @@
 # PAU-Egitim
 
-Pamukkale üniversitesi öğrencileri tarafından verilen dersler ve bu derslerin dökümanlar
+Pamukkale üniversitesi öğrencileri tarafından bilgi paylaşımı amacı ile verilen dersler ve bu derslerin dökümanlar
 
 #Ajanda
 

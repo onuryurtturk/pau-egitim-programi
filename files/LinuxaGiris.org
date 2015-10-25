@@ -46,4 +46,3 @@
 ** Kullanılacak teknoloji
    - Ne yazık ki okuldaki bilgisayarlarda kullanıcılar için kurulum kısıtlamaları olduğu için Cygwin ile geliştirilmiş bir Linux konsol emulatörü
      - http://babun.github.io/
-Organization
