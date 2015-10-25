@@ -11,6 +11,10 @@ Pamukkale üniversitesi öğrencileri tarafından verilen dersler ve bu dersleri
 | A0450 (Ends. Müh.)               |        22.10.2015 | 18:00 - 19:30 | Perşembe  | Web Nasıl Çalışır                                                         | Mustafa Tosun, İsmail Akbudak  |
 | A0455 Lab5 && A0450 (Ends. Müh.) |        23.10.2015 | 18:00 - 19:30 | Cuma      | Android'se Gelirim                                                        | Onur Yurttürk                  |
 | A0455 Lab5                       |        26.10.2015 | 18:00 - 19:30 | Pazartesi | Apple Platforumu                                                          | Bilal Arslan                   |
-| A0455 Lab5                       |        27.10.2015 | 18:00 - 19:30 | Salı      | Linux'a Giriş                                                             | Enis Özgen, Muhammet Türk      |
+| A0455 Lab5                       |        27.10.2015 | 18:00 - 19:30 | Salı      | [Linux'a Giriş][Linux'a Giriş]                                                         | Enis Özgen, Muhammet Türk      |
 | A0455 Lab5/A0453 Yedek           |        28.10.2015 | 18:00 - 19:30 | Çarşamba  | Temel Eğitimi ve GHPages                                                  | Kemal Kanok                    |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        02.11.2015 | 18:00 - 19:30 | Pazartesi | C#                                                                        | Erkan Taylan                   |
+
+
+
+[Linux'a Giriş](../master/files/LinuxaGiris.org)
