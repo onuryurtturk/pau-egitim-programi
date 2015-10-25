@@ -1,4 +1,3 @@
-* Pau bilgisayar mühendisliği eğitimleri
 * Temel Linux Eğitimi
    - Temel Bilgiler
    - Kernel
