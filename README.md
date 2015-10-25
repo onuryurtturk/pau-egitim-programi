@@ -17,4 +17,6 @@ Pamukkale üniversitesi öğrencileri tarafından verilen dersler ve bu dersleri
 
 
 
-[Linux'a Giriş](../master/files/LinuxaGiris.org)
+[Linux'a Giriş]: https://github.com/PauEducation/PAU-Egitim/blob/master/files/LinuxaGiris.org
+
+
