@@ -1,0 +1,50 @@
+* Pau bilgisayar mühendisliği eğitimleri
+* Temel Linux Eğitimi
+   - Temel Bilgiler
+   - Kernel
+** Linux sistem ağacı ve özellikleri
+   - [[http://www.oreilly.com/openbook/debian/book/figs/deb.0403.gif][Linux file Tree]]
+** Temel arayüzler
+   - Gnome nedir
+   - KDE
+   - Xface etc
+** Paket depolari
+   - apt-get
+   - yum etc.
+*** Nasıl çalışırlar
+    - Avantajları
+*** Temel fonksiyonarı
+** Temel distrolar
+   - http://distrowatch.com/
+   - Ubuntu
+   - Debian
+   - RHat
+   - Mint etc
+** Temel komutlar
+   - Script dillerini diğerlerinden ayıran özellikler
+   - man
+   - cd
+   - pwd
+   - C-c, C-d
+   - sudo su
+   - ls
+   - echo
+   - rm
+   - wc
+   - chown
+   - chmod
+   - nano
+   - ln
+*** Yaygın sistemler ile benzerliğinden bahsedilecekler
+    - top
+    - ps aux
+    - find
+    - jobs, fg, C-z
+* Notlar
+** Ders saati ve yeri
+   - A0455 Lab5	27.10.2015 Salı
+   - Tahmini 60 dakika
+** Kullanılacak teknoloji
+   - Ne yazık ki okuldaki bilgisayarlarda kullanıcılar için kurulum kısıtlamaları olduğu için Cygwin ile geliştirilmiş bir Linux konsol emulatörü
+     - http://babun.github.io/
+Organization
