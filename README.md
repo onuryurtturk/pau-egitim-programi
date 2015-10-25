@@ -14,7 +14,11 @@ Pamukkale üniversitesi öğrencileri tarafından bilgi paylaşımı amacı ile 
 | A0455 Lab5                       |        27.10.2015 | 18:00 - 19:30 | Salı      | [Linux'a Giriş][Linux'a Giriş]                                                         | Enis Özgen, Muhammet Türk      |
 | A0455 Lab5/A0453 Yedek           |        28.10.2015 | 18:00 - 19:30 | Çarşamba  | Temel Eğitimi ve GHPages                                                  | Kemal Kanok                    |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        02.11.2015 | 18:00 - 19:30 | Pazartesi | C#                                                                        | Erkan Taylan                   |
-
+| A0455 Lab5 && A0410 (Ends. Müh.) |        03.11.2015 | 18:00 - 19:30 | Salı | Python 101                                                                        | Oğuhan Taşçı                   |
+| A0455 Lab5 && A0410 (Ends. Müh.) |        04.11.2015 | 18:00 - 19:30 | Çarşamba | Nao'yu tanıyoruz                                                                        | Aziz Dursun Göktepe                   |
+| A0455 Lab5 && A0410 (Ends. Müh.) |        05.11.2015 | 18:00 - 19:30 | Perşembe | İş Hayatına Dair Tecrübeler ve Tavsiyeler                                                                        | İsmail Akbudak                   |
+| A0455 Lab5 && A0410 (Ends. Müh.) |        06.11.2015 | 18:00 - 19:30 | Cuma | Ruby Nedir?                                                                        | Leyla Kapi                   |
+| A0455 Lab5 && A0410 (Ends. Müh.) |        06.11.2015 | 18:00 - 19:30 | Cuma | Baran Kurtuluş Ozan                                                                                    | "Algoritmaya Dayalı Problem Çözüm Yöntemleri"
 
 
 [Linux'a Giriş]: https://github.com/PauEducation/PAU-Egitim/blob/master/files/LinuxaGiris.org
