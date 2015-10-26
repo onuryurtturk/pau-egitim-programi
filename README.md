@@ -12,7 +12,7 @@ Pamukkale üniversitesi öğrencileri tarafından bilgi paylaşımı amacı ile 
 | A0455 Lab5 && A0450 (Ends. Müh.) |        23.10.2015 | 18:00 - 19:30 | Cuma      | Android'se Gelirim                                                        | [Onur Yurttürk]                  |
 | A0455 Lab5                       |        26.10.2015 | 18:00 - 19:30 | Pazartesi | [Apple Platformuna Uygulama Geliştirme]                                                          | [Bilal Arslan]                   |
 | A0455 Lab5                       |        27.10.2015 | 18:00 - 19:30 | Salı      | [Linux'a Giriş]                                                         | [Enis Özgen], [Muhammet Türk]      |
-| A0455 Lab5/A0453 Yedek           |        28.10.2015 | 18:00 - 19:30 | Çarşamba  | Temel Eğitimi ve GHPages                                                  | [Kemal Kanok]                    |
+| A0455 Lab5/A0453 Yedek           |        28.10.2015 | 18:00 - 19:30 | Çarşamba  | [Temel Git Egitimi]                                                 | [Kemal Kanok]                    |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        02.11.2015 | 18:00 - 19:30 | Pazartesi | C#                                                                        | [Erkan Taylan]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        03.11.2015 | 18:00 - 19:30 | Salı | Python 101                                                                        | [Oğuhan Taşçı]                  |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        04.11.2015 | 18:00 - 19:30 | Çarşamba | Nao'yu tanıyoruz                                                                        | [Aziz Dursun Göktepe]                   |
@@ -34,6 +34,22 @@ Pamukkale üniversitesi öğrencileri tarafından bilgi paylaşımı amacı ile 
 [Baran Kurtuluş Ozan]: https://github.com/barankurtulusozan
 [Aziz Dursun Göktepe]: https://github.com/azizdursungoktepe
 [Linux'a Giriş]: https://github.com/PauEducation/PAU-Egitim/blob/master/files/LinuxaGiris.org
-[Apple Platformuna Uygulama Geliştirme]: https://github.com/PauEducation/pau-egitim-programi/blob/master/files/apple-platformuna-uygulama-gelistirme.md
+[Apple Platformuna Uygulama Geliştirme]: https://github.com/PauEducation/pau-egitim-programi/blob/master/files/lectures/apple-platformuna-uygulama-gelistirme/readme.md
+[Temel Git Egitimi]: http://www.git-scm.com
 
 
+#Rules For Contribution
+* name should be dash based for ex: 
+```temel-git-egitimi```
+* folder structure of project
+```
+    |-- lectures
+        |-- temel-git-egitimi
+            |-- images
+                |-- .gitkeep
+            |-- docs
+                |-- .gitkeep
+            |-- readme.md
+```
+* every commit should be a pull request otherwise will not be accepted
+* every lecture should have a readme.md file
