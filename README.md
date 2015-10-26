@@ -17,7 +17,7 @@ Pamukkale üniversitesi öğrencileri tarafından bilgi paylaşımı amacı ile 
 | A0455 Lab5 && A0410 (Ends. Müh.) |        03.11.2015 | 18:00 - 19:30 | Salı | Python 101                                                                        | [Oğuhan Taşçı]                  |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        04.11.2015 | 18:00 - 19:30 | Çarşamba | Nao'yu tanıyoruz                                                                        | [Aziz Dursun Göktepe]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        05.11.2015 | 18:00 - 19:30 | Perşembe | İş Hayatına Dair Tecrübeler ve Tavsiyeler                                                                        | [İsmail Akbudak]                   |
-| A0455 Lab5 && A0410 (Ends. Müh.) |        06.11.2015 | 18:00 - 19:30 | Cuma | Ruby Nedir?                                                                        | [Leyla Kapi]                   |
+| A0455 Lab5 && A0410 (Ends. Müh.) |        06.11.2015 | 18:00 - 19:30 | Cuma | Ruby 101                                                                        | [Leyla Kapi]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        09.11.2015 | 18:00 - 19:30 | Pazartesi | "Algoritmaya Dayalı Problem Çözüm Yöntemleri"                                                                                    | [Baran Kurtuluş Ozan]
 
 [Bilal Arslan]: https://github.com/arslanbilal
