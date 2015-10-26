@@ -20,7 +20,7 @@ Pamukkale üniversitesi öğrencileri tarafından bilgi paylaşımı amacı ile 
 | A0455 Lab5 && A0410 (Ends. Müh.) |        06.11.2015 | 18:00 - 19:30 | Cuma | Ruby 101                                                                        | [Leyla Kapi]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        09.11.2015 | 18:00 - 19:30 | Pazartesi | "Algoritmaya Dayalı Problem Çözüm Yöntemleri"                                                                                    | [Baran Kurtuluş Ozan]
 
-[Bilal Arslan]: https://github.com/arslanbilal {:target="_blank"}
+[Bilal Arslan]: https://github.com/arslanbilal
 [Necati Kartal]: https://github.com/necatikartal 
 [Kemal Kanok]: https://github.com/kemalkanok
 [Mustafa Tosun]: https://github.com/mustafatosun
