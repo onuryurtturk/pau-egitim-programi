@@ -33,8 +33,8 @@ Pamukkale üniversitesi öğrencileri tarafından bilgi paylaşımı amacı ile 
 [Leyla Kapi]: https://github.com/leylaKapi
 [Baran Kurtuluş Ozan]: https://github.com/barankurtulusozan
 [Aziz Dursun Göktepe]: https://github.com/azizdursungoktepe
-[Linux'a Giriş]: https://github.com/PauEducation/PAU-Egitim/blob/master/files/LinuxaGiris.org
-[Apple Platformuna Uygulama Geliştirme]: https://github.com/PauEducation/pau-egitim-programi/blob/master/files/lectures/apple-platformuna-uygulama-gelistirme/readme.md
+[Linux'a Giriş]: https://github.com/PauEducation/pau-egitim-programi/blob/master/lectures/linuxa-giris/readme.md
+[Apple Platformuna Uygulama Geliştirme]: https://github.com/PauEducation/pau-egitim-programi/blob/master/lectures/apple-platformuna-uygulama-gelistirme/readme.md
 [Temel Git Egitimi]: http://www.git-scm.com
 
 
