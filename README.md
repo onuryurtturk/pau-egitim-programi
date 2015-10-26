@@ -29,7 +29,7 @@ Pamukkale Universitesi öğrencileri tarafindan bilgi paylaşimi amaci ile veril
 [Muhammet Türk]: https://github.com/mturk111
 [Onur Yurttürk]: https://github.com/onuryurtturk
 [Erkan Taylan]: https://github.com/erkantaylan
-[Oğuhan Taşçı]: https://github.com/oguzhantasci
+[Oğuzhan Taşçı]: https://github.com/oguzhantasci
 [Leyla Kapi]: https://github.com/leylaKapi
 [Baran Kurtuluş Ozan]: https://github.com/barankurtulusozan
 [Aziz Dursun Göktepe]: https://github.com/azizdursungoktepe
