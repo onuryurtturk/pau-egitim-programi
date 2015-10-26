@@ -14,7 +14,7 @@ Pamukkale Universitesi öğrencileri tarafindan bilgi paylaşimi amaci ile veril
 | A0455 Lab5                       |        27.10.2015 | 18:00 - 19:30 | Salı      | [Linux'a Giriş]                                                         | [Enis Özgen], [Muhammet Türk]      |
 | A0455 Lab5/A0453 Yedek           |        28.10.2015 | 18:00 - 19:30 | Çarşamba  | [Temel Git Egitimi]                                                 | [Kemal Kanok]                    |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        02.11.2015 | 18:00 - 19:30 | Pazartesi | [C#]                                                                        | [Erkan Taylan]                   |
-| A0455 Lab5 && A0410 (Ends. Müh.) |        03.11.2015 | 18:00 - 19:30 | Salı | [Python 101]                                                                       | [Oğuhan Taşçı]                  |
+| A0455 Lab5 && A0410 (Ends. Müh.) |        03.11.2015 | 18:00 - 19:30 | Salı | [Python 101]                                                                       | [Oğuzhan Taşçı]                  |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        04.11.2015 | 18:00 - 19:30 | Çarşamba | [Nao'yu tanıyoruz]                                                                        | [Aziz Dursun Göktepe]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        05.11.2015 | 18:00 - 19:30 | Perşembe | [İş Hayatına Dair Tecrübeler ve Tavsiyeler]                                                                        | [İsmail Akbudak]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        06.11.2015 | 18:00 - 19:30 | Cuma | [Ruby 101]                                                                       | [Leyla Kapi]                   |
