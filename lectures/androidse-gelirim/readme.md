@@ -19,7 +19,7 @@ Onur Yurttürk kimdir?
 
 #### <i class="icon-pencil"></i> **İletişim Adreslerim**
 
-> - ![enter image description here](http://vekam.org.tr/images/facebook-icon.png)  onuryurtturk
+> - ![enter image description here](http://vekam.org.tr/images/facebook-icon.png) [Facebook][11] 
 > - ![enter image description here](http://img.tamindir.com/ti_e_ul/yigitekimdemir/p/ikon-gmail_32x32.png)  onuryurtturk@gmail.com
 > - ![enter image description here](http://img.tamindir.com/ti_e_ul/yigitekimdemir/p/ikon-gmail_32x32.png)  paufsc.event@gmail.com (Özgür Yazılım Topluluğu)
 > - Özgür Yazılım Topluluğu da neymiş dersen [tıkla][2] 
@@ -48,7 +48,7 @@ Bir cümle için verilen süre dolduğunda katılımcı sağındaki ya da solund
 > - 3 temel kavramdan bahsettik; **Bilgi**, **Üretkenlik** ve **Zaman Yönetimi**. Bunların birbirinden bağımsız olamayacağını ve hepsini bir araya getirince mühendislik kavramını kısmen oluşturduğundan bahsettik.
 
 > -  **Life Balancing** kavramından bahsettik. Hayatımızı 2'ye bölüp terazi üzerinde ayrı kefelere koyup bunların dengede kalması gerekliliğinden ve denge kaybında oluşabilecek sorunlar hakkında konuştuk.
-> ![Hayatımızı](http://3plusinternational.com/wp-content/uploads/worklife.jpg) > 
+> ![Hayatımızı](http://3plusinternational.com/wp-content/uploads/worklife.jpg)  
 > - Kitap okuyan arkadaşlarım için birkaç tavsiye vermiştim. Okuduğum pek çok kitapta; kişisel gelişim kategorisinde favorim **Ahmet Şerif İzgören**'dir. Hayatınızın bir adım ötesini göremiyorsanız ve gelecek planlamasında karar almakta zorlanıyorsanız kitaplarını bir inceleyin derim.
 > - Sonrasında Android'e giriş yaptık. 
 >  - **Android nedir?**
@@ -122,3 +122,4 @@ Bir cümle için verilen süre dolduğunda katılımcı sağındaki ya da solund
   [8]: https://www.youtube.com/watch?v=eT9vmpE8WcY
   [9]: https://www.youtube.com/watch?v=VtdMhqiyyGQ
   [10]:https://github.com/PauEducation/pau-egitim-programi/tree/master/lectures/androidse-gelirim/images
+  [11]:https://www.facebook.com/onuryurtturk
