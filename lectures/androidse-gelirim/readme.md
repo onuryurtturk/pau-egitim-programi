@@ -87,8 +87,8 @@ Bir cümle için verilen süre dolduğunda katılımcı sağındaki ya da solund
  ----------------- | ---------------------------- | ------------------
 | ![](http://www.droidlife.com/assets/android_cupcake_logo_thumb.png) | `Cupcake`            | `1.5`|
 | ![](http://www.droidlife.com/assets/android_donut_logo_thumb.png)           | `Donut`            | `1.6` |
-| ![](http://www.icons101.com/icon_png/size_32/id_83005/Android_20_Eclair.png)           | `Eclair`  | `2.0 - 2.1`  |
-| ![](http://www.icons101.com/icon_png/size_32/id_83006/Android_22_Froyo.png)           | `Froyo`  | `2.2`  |
+| ![](http://www.droidlife.com/assets/android_eclair_logo_thumb.png)           | `Eclair`  | `2.0 - 2.1`  |
+| ![](http://findicons.com/files/icons/1790/large_android/32/android.png)           | `Froyo`  | `2.2`  |
 | ![](http://www.droidlife.com/assets/android_gingerbread_logo_thumb.png)           | `Gingerbread`  | `2.3`  |
 | ![](http://www.fd4a.net/Android_Icons/ADW-Theme-Android-Honeycomb.png)           | `Honeycomb`  | `3.0 - 3.1 - 3.2`  |
 | ![](http://www-prestigio-tr.v5.value4it.ru/share/common/icecream2_small.png)           | `IceCream Sandwich`  | `4.0`  |
